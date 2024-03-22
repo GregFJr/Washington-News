@@ -81,7 +81,11 @@ body {
     font-size: 15px;
     text-transform: uppercase;
     margin-top: 6%;
+}
 
+.three button:hover {
+    color: var(--Soft-orange);
+    cursor: pointer;
 }
 
 .four {
